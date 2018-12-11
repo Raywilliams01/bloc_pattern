@@ -2,7 +2,6 @@
 FLUTTER_ROOT=/Users/raywilliams/Site/flutter
 FLUTTER_APPLICATION_PATH=/Users/raywilliams/Site/Flutter_Project/udemy/bloc_pattern
 FLUTTER_TARGET=/Users/raywilliams/Site/Flutter_Project/udemy/bloc_pattern/lib/main.dart
-FLUTTER_BUILD_MODE=debug
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/raywilliams/Site/flutter/bin/cache/artifacts/engine/ios
